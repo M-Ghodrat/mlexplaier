@@ -16,12 +16,12 @@ METHODS = {
         'name': "TextBlob",
         'lowercase': False,
     },
-    'vader': {
-        'class': "VaderExplainer",
-        'file': None,
-        'name': "VADER",
-        'lowercase': False,
-    },
+    # 'vader': {
+    #     'class': "VaderExplainer",
+    #     'file': None,
+    #     'name': "VADER",
+    #     'lowercase': False,
+    # },
     'logistic': {
         'class': "LogisticExplainer",
         'file': "data/sst/sst_train.txt",

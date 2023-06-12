@@ -25,7 +25,7 @@ method_list = tuple(label for label, val in METHODS.items())
 method = st.selectbox(
     'Choose classifier:',
     method_list,
-    index=3,
+    index=2,
     format_func=format_dropdown_labels,
 )
 
