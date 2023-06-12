@@ -111,7 +111,7 @@ class VaderExplainer:
             from nltk.sentiment.vader import SentimentIntensityAnalyzer
         except:
             import nltk
-            nltk.download('vader_lexicon')
+            nltk.download('wordnet')
         self.vader = SentimentIntensityAnalyzer()
         self.classes = np.array([1, 2, 3, 4, 5])
 
