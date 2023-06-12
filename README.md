@@ -1,5 +1,9 @@
 # A Streamlit Explainer App for Fine Grained Sentiment Classification
 
+Link to App: 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://m-ghodrat-mlexplaier-app-7ze204.streamlit.app/)
+
 This repo contains the Streamlit equivalent of an existing interactive application, that explains the results of fine-grained sentiment classification, described in detail in [this Medium Series](https://medium.com/@tech_optimist/fine-grained-sentiment-analysis-in-python-part-2-2a92fdc0160d).
 
 A number of classifiers are implemented and their results explained using the [LIME explainer](https://arxiv.org/pdf/1602.04938.pdf). 
