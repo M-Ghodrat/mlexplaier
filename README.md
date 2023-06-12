@@ -1,6 +1,8 @@
 # A Streamlit Explainer App for Fine Grained Sentiment Classification
 
-Link to App: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/m-ghodrat/inertial-measurement-unit-sensor-module/main/IMU.py](https://m-ghodrat-mlexplaier-app-7ze204.streamlit.app/))
+Link to App: 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/m-ghodrat-mlexplaier-app-7ze204.streamlit.app)
 
 This repo contains the Streamlit equivalent of an existing interactive application, that explains the results of fine-grained sentiment classification, described in detail in [this Medium Series](https://medium.com/@tech_optimist/fine-grained-sentiment-analysis-in-python-part-2-2a92fdc0160d).
 
